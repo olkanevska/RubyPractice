@@ -1,0 +1,11 @@
+Задание №3
+
+Есть веб страничка со списком товаров:
+http://www.amazon.com/gp/bestsellers/digital-text/154606011/ref=s9_ri_ft_clnk?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=center-10&pf_rd_r=0C8G9TZSPG7PJ5BCQ33E&pf_rd_t=1401&pf_rd_p=1534448702&pf_rd_i=1000493771
+
+Нужно разпарсить эту страничку с помощью регулярок, выбрав следующие значения и записать результат в csv файл:
+
+Name                ,Author             ,Rating,Price
+The Cuckoo's Calling,Robert Galbraith   ,4.1   ,$9.99
+When I Found You    ,Catherine Ryan Hyde,4.5   ,$0.99
+........
